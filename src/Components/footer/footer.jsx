@@ -11,11 +11,11 @@ const Footer = () => {
                 <li><a href="#about">About</a></li>
                 <li><a href="#experience">Experience</a></li>
                 <li><a href="#contact">Contact</a></li>
-                <li><a href="#">Home</a></li>
+                
             </ul>
             <div className="footer__socials">
-                <a href="http://facebook.com"><FaFacebook/></a>
-                <a href="http://instagram.com"><FiInstagram/></a>
+                <a href="https://www.facebook.com/harisankar.valath?mibextid=ZbWKwL" target="_blank"><FaFacebook/></a>
+                <a href="https://instagram.com/hari_sankar_valath?igshid=ZDdkNTZiNTM=" target="_blank"><FiInstagram/></a>
                
             </div>
             <div className="footer__copyright">
