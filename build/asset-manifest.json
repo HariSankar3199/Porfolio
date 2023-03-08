@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7379eefc.css",
+    "main.js": "/static/js/main.bf979ecd.js",
+    "static/media/M2.jpg": "/static/media/M2.c15a4879e25e389533a3.jpg",
+    "static/media/Hari Sankar.pdf": "/static/media/Hari Sankar.e0ccd81ef260f0172eaf.pdf",
+    "static/media/Me.jpg": "/static/media/Me.0978d283d8051d912742.jpg",
+    "index.html": "/index.html",
+    "main.7379eefc.css.map": "/static/css/main.7379eefc.css.map",
+    "main.bf979ecd.js.map": "/static/js/main.bf979ecd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7379eefc.css",
+    "static/js/main.bf979ecd.js"
+  ]
+}
