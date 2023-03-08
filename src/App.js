@@ -7,7 +7,7 @@ import Footer from './Components/footer/footer';
 import Header from './Components/header/header';
 import Navbar from './Components/nav/navbar';
 import Education from './Components/Education/education';
-//import 'bootstrap/dist/css/bootstrap.min.css'
+
 
 
 function App() {
